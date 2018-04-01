@@ -4,7 +4,7 @@ A really basic chat app which uses p2p (not secure, not bothered..), built with 
 
 **Screen** Love them crazy colours!
 
-
+![enter image description here](https://i.imgur.com/fR999rP.gif)
 
 #### Build Setup
 
